@@ -19,7 +19,7 @@ print(content)
 f_1.close()
 
 
-#2
+##2
 
 my_list = ['Home\n', 'Work\n', 'Five\n']
 with open("my_homework_file_2.txt", 'w+') as file_obj:
